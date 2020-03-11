@@ -21,7 +21,7 @@ const Baccarat = ({ isMobile, isTablet, isDesktop }) => {
               }}
             >
               <span className="iconfont icon_allbet" />
-              <OutlineBtn name="開始" />
+              <OutlineBtn name="開始1" />
             </div>
             <div className={css.gameCardGroup}>
               <div
